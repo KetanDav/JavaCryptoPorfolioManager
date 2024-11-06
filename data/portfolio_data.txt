@@ -1,0 +1,2 @@
+Asset: Bitcoin, Amount: 123.0
+Asset: kddkd, Amount: 132442.0
